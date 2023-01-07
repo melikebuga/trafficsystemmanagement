@@ -1,0 +1,8 @@
+@use 'base';
+
+.menu-icon {
+  background-color: base.$primary-color;
+  color: white;
+  width:  32px;
+  height: 32px;
+}
